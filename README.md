@@ -1,4 +1,4 @@
-# Lernressourcen & Projektideen für Angewandte Informatik (vollständig)
+# Lernressourcen & Projektideen für Angewandte Informatik 
 
 Alle Module deines Studienplans mit Literatur und Projekten für die Semesterferien.
 
